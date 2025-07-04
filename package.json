@@ -1,0 +1,23 @@
+{
+  "name": "monkey-snowfight-javasciript-remake",
+  "version": "1.0.0",
+  "description": "JavaScript remake of the popular Flash Game 'Monkey Snow Fight'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrshaw99/Monkey-Snowfight-JavaSciript-Remake.git"
+  },
+  "author": "Mark Rutherford-Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markrshaw99/Monkey-Snowfight-JavaSciript-Remake/issues"
+  },
+  "homepage": "https://github.com/markrshaw99/Monkey-Snowfight-JavaSciript-Remake#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
